@@ -1,0 +1,62 @@
+[
+  {
+    "country": "Brazil",
+    "gdp": 2.14
+  },
+  {
+    "country": "Italy",
+    "gdp": 2.04
+  },
+  {
+    "country": "India",
+    "gdp": 1.7
+  },
+  {
+    "country": "Canada",
+    "gdp": 1.57
+  },
+  {
+    "country": "Russian Federation",
+    "gdp": 1.52
+  },
+  {
+    "country": "Spain",
+    "gdp": 1.37
+  },
+  {
+    "country": "Australia",
+    "gdp": 1.14
+  },
+  {
+    "country": "Mexico",
+    "gdp": 1.04
+  },
+  {
+    "country": "Korea",
+    "gdp": 1.01
+  },
+  {
+    "country": "United States",
+    "gdp": 14.9
+  },
+  {
+    "country": "China",
+    "gdp": 5.93
+  },
+  {
+    "country": "Japan",
+    "gdp": 5.49
+  },
+  {
+    "country": "Germany",
+    "gdp": 3.28
+  },
+  {
+    "country": "France",
+    "gdp": 2.54
+  },
+  {
+    "country": "United Kingdom",
+    "gdp": 2.28
+  }
+]
